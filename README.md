@@ -15,5 +15,7 @@ or → 6
 3.If two or more letters with the same number are adjacent in the original name (before step 1), only retain the first letter; also two letters with the same number separated by 'h' or 'w' are coded as a single number, whereas such letters separated by a vowel are coded twice. This rule also applies to the first letter.
 4.If we have too few letters in our word that we can't assign three numbers, append with zeros until there are three numbers. If we have four or more numbers, retain only the first three.
 Using this algorithm, both "Robert" and "Rupert" return the same string "R163" which are pronounced as same.
-![image](https://user-images.githubusercontent.com/55494211/119179323-36a47c00-ba88-11eb-8ed3-9709b943ed86.png)
+
+![19mx108](https://user-images.githubusercontent.com/55494211/119179772-c5b19400-ba88-11eb-9722-b3653b7fee76.png)
+
 
